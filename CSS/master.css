@@ -633,12 +633,6 @@ section.landing .text .text-animation {
 
 }
 
-/* For Small Screens */
-@media (max-width: 767px) {
-    .text-animation span {
-        font-size: 2.3em;
-    }
-}
 
 
 .text-animation span:nth-of-type(1) {
